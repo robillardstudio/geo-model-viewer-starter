@@ -1,6 +1,6 @@
-# Found on the Oval — starter
+# Found on the Oval — Starter
 
-DESIGN 4106 · Intro to AR Training
+DESIGN 4106 · Intro to AR Training 2
 
 ![screenshot](screenshot.png)
 
