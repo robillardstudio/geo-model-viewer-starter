@@ -1,6 +1,8 @@
 # Found on the Oval — starter
 
-DESIGN 4106 · Intro to AR Training 2
+DESIGN 4106 · Intro to AR Training
+
+![screenshot](screenshot.png)
 
 A .glb stays locked until your phone's GPS says you are at the spot. Then it opens in [model-viewer](https://modelviewer.dev), with a **View in AR** button. One HTML file, no install.
 
