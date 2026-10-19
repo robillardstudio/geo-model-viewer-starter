@@ -39,6 +39,7 @@ navigator.geolocation.watchPosition(onPosition);   // GPS listener
 
 ## My project
 
+- **Title**
 - **Live page: (your url)**
 - **Coordinates: (our spot coordinates)**
 - **Intent: (one line: how does your 3d object respond to the qualities of the spot)**
