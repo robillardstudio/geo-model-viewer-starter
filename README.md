@@ -6,6 +6,8 @@ DESIGN 4106 · Intro to AR Training 2
 
 A .glb stays locked until your phone's GPS says you are at the spot. Then it opens in [model-viewer](https://modelviewer.dev), with a **View in AR** button. One HTML file, no install.
 
+Demo: [http://go.osu.edu/geo-starter](http://go.osu.edu/geo-starter)
+
 ## Test on your computer (VS Code + Live Server)
 
 1. Open the project folder in VS Code
